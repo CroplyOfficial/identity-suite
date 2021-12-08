@@ -1,0 +1,12 @@
+[submodule "identity-api"]
+	path = identity-api
+	url = https://github.com/CroplyOfficial/identity-api
+[submodule "certify-client"]
+	path = certify-client
+	url = https://github.com/CroplyOfficial/certify-client
+[submodule "vira-wallet"]
+	path = vira-wallet
+	url = https://github.com/CroplyOfficial/vira-wallet
+[submodule "cloudvault"]
+	path = cloudvault
+	url = https://github.com/CroplyOfficial/cloudvault.git
