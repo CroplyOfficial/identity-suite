@@ -58,7 +58,7 @@ npm i -g yarn
 
 ### 2. Certify Client
 
-Certify Client is the frontend of certify, it's written in react. Credits to [Danish](https://github.com/DanishSinghSethi) for his amazing work with the frontend :)
+Certify Client is the frontend of certify, it's written in React. Credits to [Danish](https://github.com/DanishSinghSethi) for his amazing work with the frontend :)
 
 **NOTE** : All commands are assumed to be running in `certify-client` folder
 
@@ -69,7 +69,7 @@ Certify Client is the frontend of certify, it's written in react. Credits to [Da
 ### 3. Vira Wallet
 
 Vira is the self sovereign identiy wallet that is where you store all of your DID, PII and VCs.
-Vira is built on react and leverages Capacitor to expose the Native APIs.
+Vira is built on React and leverages Capacitor to expose the Native APIs.
 
 **NOTE** : All commands are assumed to be running in the `vira-wallet` directory
 
